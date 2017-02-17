@@ -1,0 +1,36 @@
+OfficialOfficial Club Meeting 
+# Month 2014
+Classroom #
+
+
+This Official Officer Meeting of the Computer Science and Computer Engineering Club at San Bernardino Valley College is hereby called to order Daniel Killam presiding.
+
+Roll Call:
+
+President-here
+Vice President-absent
+Secretary-here
+Treasure-here
+ICC Representative-here
+
+start time:
+3:08:meeting calleld to order
+3:10 to strike worst minutes ever vetoed
+3:10 previous minutes approved
+3:10 cyber security month pushed one week
+3:11 cyber security month is ocotober we are doing workshops and presentation(malware,spam,ideentity theft, parental control) on tuesday 
+3::12 roger powell was late 9or damn early for next weeks minutes)
+3:12 we can turn titles into verbs (google!)
+3:12 cyber associate in ps 123
+3:15 western regional college it cyber defense competition on oct 18th at 8:30 
+3:16 club rush was today and thanks to whoever showed up
+3:18 enrique got an arduino kit and might be doing arduino stuff
+3:18 studio audience can pay money for us to sit
+3:19 recycling ewaste info still being attempted to get info
+3:21 february scale conference panel collection (possible security panel for us to do)
+3:26 december has the week of code us possibly teacher grade school students 
+3:30 get presentations in early for the workshop presentations
+3:31 project idea: "code on pi and learn on pi" examples , we create an elearning system to learn coding that runs completely on a pi and a web version c++9backend can be with bash scripts
+3:36 new it certficates submitted for curriculum (cy sec, comp support,  digital forensics, network support)
+3:37 talking to stem about getting i.t. certs study sessions (a+, certified ethical hacker, server plus, server plus, ccnet, ccna)
+3:40 meeting called to a close
