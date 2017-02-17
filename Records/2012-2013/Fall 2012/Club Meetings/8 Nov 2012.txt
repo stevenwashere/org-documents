@@ -1,0 +1,28 @@
+Official Club Meeting
+8th November 2012
+PL 06
+
+This Official Meeting of the Computer Science and Computer Engineering Club at San Bernardino Valley College is hereby called to order; Kevin Andrade presiding.
+
+Roll:
+President - Here
+Vice President - Here
+Secretary - Absent
+Treasurer - Here
+ICC Representative - Here
+
+Action Items:
+- Discuss raspberry pi community (postponed)
+
+Minutes:
+- 13:10 Meeting called to order
+- 13:11 Previous week's minutes opposed.
+- 13:12 Raspberry Pi community discussed.
+	Vote to dedicate space on the website carried 2-0-7.
+- 13:13 Discussion of darkreading.com brought up by Advisor, Roger Powell.
+- 13:19 Canned food drive for Thanksgiving discussed.
+- 13:24 Discussed cyber security and next semesters meeting times.
+- 13:28 Meeting called to a close.
+
+Action Items for Next Meeting:
+- Discuss raspberry pi community

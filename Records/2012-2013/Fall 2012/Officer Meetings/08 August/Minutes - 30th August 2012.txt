@@ -1,0 +1,43 @@
+2nd Officer Meeting
+30th August 2012
+PL 06
+
+The 2nd Officer Meeting in the Fall 2012 semester of the Computer Science and Computer Engineering Club is now called to order; Kevin Andrade presiding.
+
+Roll:
+President - here
+Vice-President - here
+Secretary - here
+Treasurer - excused
+ICC Representative - here
+
+Action items:
+- Discuss amendments for voting (and constitution reratification), due process, and white hat agreement.
+- Open floor
+
+Minutes:
+  12:25 - Meeting called to order
+  12:28 - Vice President takes the floor; presents plan for officer elections
+  12:34 - Vice President moves to draft Officer Election Proposal into a formal amendment; unanimous approval.
+  12:35 - Vice President moves to draft Constitution Reratification Proposal into a formal amendment; unanimous approval.
+  12:43 - Secretery opens the floor for discussion of due process
+  12:52 - Secretery moves to draft Due Process Proposal into a formal amendment; unanimous approval.
+  12:53 - Secretary opens the floor for discussion of white hat agreement and membership application and code of conduct.
+  13:04 - Secretery agrees to draft a code of conduct and white hat agreement
+  13:04 - Officer meeting adjourned
+
+
+Officer Election Proposal, Daniel Killam
+- Each spring semester shall be an Election semester. Upon the first meeting of an election semester, an announcement shall be explaining the process of elections to the present membership. All members who wish to 
+- 1st meeting of the spring semester, elections announced; deadline is 3rd to last meeting for candidate applications
+- 3rd to last meeting of the spring semester, elections announcement, application submissions
+- 2nd to last meeting of the spring semester, candidate presentations, voting
+- Last meeting of the spring semester, officer introduced and indoctrinated
+
+Constitution Reratification Proposal, Daniel Killam
+- The phrase "and ratified by a unanimous vote of officers and the approval of a Club Advisor" shall be struck from Section 9 of the Constitution.
+
+Due Process Proposal, Daniel Killam
+- Whenever a member is subject to disciplinary action which imposes a sanction, they have the right to request a public hearing at the next scheduled club meeting, at which time they shall have the opportunity to present their case. A vote of two-thirds of the members who are present, who are in good standing, and who have been a member of the club during each of the previous thirty days shall uphold the original decision.
+
+Action items for next meeting: Code of Conduct and White Hat Agreement.

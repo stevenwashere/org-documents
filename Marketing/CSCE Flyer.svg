@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="CSCE Flyer.svg">
+  <defs
+     id="defs2987">
+    <filter
+       id="filter3032"
+       inkscape:label="Air spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       width="2"
+       height="2"
+       y="-0.5"
+       x="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3034"
+         stdDeviation="0.01"
+         result="result1" />
+      <feBlend
+         id="feBlend3036"
+         in2="result1"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence3038"
+         baseFrequency="0.8"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap3040"
+         in2="result3"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         result="result2" />
+      <feMorphology
+         id="feMorphology3042"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend3044"
+         in2="result2"
+         mode="screen" />
+    </filter>
+    <filter
+       id="filter3032-1"
+       inkscape:label="Air spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       width="2"
+       height="2"
+       y="-0.5"
+       x="-0.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3034-7"
+         stdDeviation="0.01"
+         result="result1" />
+      <feBlend
+         id="feBlend3036-4"
+         in2="result1"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence3038-0"
+         baseFrequency="0.8"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap3040-9"
+         in2="result3"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         result="result2" />
+      <feMorphology
+         id="feMorphology3042-4"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend3044-8"
+         in2="result2"
+         mode="screen" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="490"
+     inkscape:cy="380"
+     inkscape:current-layer="layer1"
+     id="namedview2989"
+     showgrid="false"
+     inkscape:window-width="1168"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994"
+       style="font-size:144px;font-style:oblique;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6c5353;fill-opacity:1;stroke:none;filter:url(#filter3032);font-family:Sans;-inkscape-font-specification:Sans Bold Oblique"
+       transform="translate(149.71496,-29.942992)"><flowRegion
+         id="flowRegion2996"><rect
+           id="rect2998"
+           width="430.71838"
+           height="140.50172"
+           x="154.32156"
+           y="96.865211"
+           style="font-size:144px;font-style:oblique;font-weight:bold;fill:#6c5353;-inkscape-font-specification:Sans Bold Oblique" /></flowRegion><flowPara
+         id="flowPara3000">CSCE</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3"
+       id="path3069"
+       sodipodi:cx="521.69904"
+       sodipodi:cy="205.12064"
+       sodipodi:rx="395.01715"
+       sodipodi:ry="105.95213"
+       d="m 916.71619,205.12064 a 395.01715,105.95213 0 1 1 -790.03431,0 395.01715,105.95213 0 1 1 790.03431,0 z"
+       transform="translate(-6.9099211,-69.099211)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2994-8"
+       style="font-size:144px;font-style:oblique;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6c5353;fill-opacity:1;stroke:none;filter:url(#filter3032-1);font-family:Sans;-inkscape-font-specification:Sans Bold Oblique"
+       transform="translate(149.71496,-29.94299)"><flowRegion
+         id="flowRegion2996-2"><rect
+           id="rect2998-4"
+           width="430.71838"
+           height="140.50172"
+           x="154.32156"
+           y="96.865211"
+           style="font-size:144px;font-style:oblique;font-weight:bold;fill:#6c5353;-inkscape-font-specification:Sans Bold Oblique" /></flowRegion><flowPara
+         id="flowPara3000-5">CSCE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3098"
+       style="font-size:40px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Oblique"
+       transform="translate(29.942991,-80.615746)"><flowRegion
+         id="flowRegion3100"><rect
+           id="rect3102"
+           width="969.69226"
+           height="48.369453"
+           x="39.156219"
+           y="324.89261"
+           style="font-style:oblique;-inkscape-font-specification:Sans Oblique" /></flowRegion><flowPara
+         id="flowPara3104">Computer Science and Computer Engineering Club</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3106"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3108"><rect
+           id="rect3110"
+           width="891.37982"
+           height="170.44472"
+           x="80.615746"
+           y="301.85953"
+           style="font-size:32px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3112">Hey! We're SBVC's only computer enthusiasts. If you're interested in computers, then feel free to approach us, we won't bite. If you've got a computer related project, then come on in and we might be able to help you with it.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3114"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3116"><rect
+           id="rect3118"
+           width="361.6192"
+           height="228.02739"
+           x="92.132278"
+           y="481.51749"
+           style="font-size:32px" /></flowRegion><flowPara
+         id="flowPara3120" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3122"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3124"><rect
+           id="rect3126"
+           width="283.30679"
+           height="202.69102"
+           x="108.25543"
+           y="483.8208"
+           style="font-size:32px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3130"
+         style="word-spacing:-5.25px;line-height:122%">Meetings are held on Thursday at 1:00 pm in the Planetarium Building Room PL-06</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3134"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3136"><rect
+           id="rect3138"
+           width="552.79358"
+           height="198.08461"
+           x="460.66144"
+           y="486.12408"
+           style="font-size:32px" /></flowRegion><flowPara
+         id="flowPara3140">Current projects include:</flowPara><flowPara
+         id="flowPara3142">- Preparation for cyber security related    competitions.</flowPara><flowPara
+         id="flowPara3144">- Writing a program that will play a game against a human and win.</flowPara></flowRoot>  </g>
+</svg>
