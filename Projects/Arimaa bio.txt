@@ -1,0 +1,5 @@
+Arimaa is a two-player abstract strategy board game, invented by Omar Syed in 2002 in order to demonstrate the failure of chess-playing programs to meet the standards for generalized artificial intelligence. There has since that time been an annually renewed challenge to the computer programming community: "Create a program, running on basic, off-the-shelf hardware, that can beat the top human players at this game." So far, though there have been many attempts by programmers to build a master program, the humans have won each year.
+
+We propose to enter this contest, held every March, by building a program with the strategic capabilities requisite to excel in this task.
+
+- Anthony
