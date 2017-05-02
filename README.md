@@ -16,7 +16,13 @@
  - Stores meeting minutes and scanned sign up/in sheets. There are templates for minutes and agendas as well. *Please note in 2015 records keeping was switched to using Forum forms for minutes and agendas so they are note stored here starting 2015*
 =======
 # org-documents
+<<<<<<< HEAD
 Official organizational/informational documents for the club.
+=======
+
+Official organizational/informational documents for the club.
+
+>>>>>>> master
 
 # Layout (What directory holds what kinds of files)
 - Constitution
@@ -30,5 +36,10 @@ Official organizational/informational documents for the club.
 - Projects
  - Storage of documents for club based projects that need to be shared with everyone in the club easily
 - Records
+<<<<<<< HEAD
  - Stores meeting minutes and scanned sign up/in sheets. There are templates for minutes and agendas as well. *Please note in 2015 recordkeeping was switched to using Forum forms for minutes and agendas so they are not stored here starting 2015*
 >>>>>>> Spelling/Grammar Fix
+=======
+
+ - Stores meeting minutes and scanned sign up/in sheets. There are templates for minutes and agendas as well. *Please note in 2015 recordkeeping was switched to using Forum forms for minutes and agendas so they are not stored here starting 2015*
+>>>>>>> master
